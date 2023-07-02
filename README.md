@@ -111,7 +111,7 @@ abstract fun onClose() // Called when the user presses the close button
 
 ## Credits
 
-This library would not have been possible without the following projects:
+This library has been built on top of the work of:
 
 [Kuama-IT, Android Document Scanner](https://github.com/Kuama-IT/android-document-scanner)
 
