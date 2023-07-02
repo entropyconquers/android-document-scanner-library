@@ -2,12 +2,16 @@
 
 A powerful and efficient Android library that leverages the capabilities of OpenCV and MLKit to provide fast and precise document scanning functionality.
 
+Please ⭐ this library if you found it useful and/or want to support its development.
+
 ## Features
 
 - [x] Fast and accurate document detection
 - [x] Perspective correction
 - [x] Image enhancement
 - [x] Cropping support
+
+
 
 ## Installation
 
@@ -105,7 +109,17 @@ abstract fun onDocumentAccepted(bitmap: Bitmap) // Called when a document is acc
 abstract fun onClose() // Called when the user presses the close button
 ```
 
+## Credits
 
+This library would not have been possible without the following projects:
+
+[Kuama-IT, Android Document Scanner](https://github.com/Kuama-IT/android-document-scanner)
+
+## License
+
+```
+MIT License
+```
 
 
 
